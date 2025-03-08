@@ -1,1 +1,1 @@
-# UMDInfoChallengeAmtrak
+# UMD Info Challenge Amtrak
