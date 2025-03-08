@@ -10,6 +10,7 @@ This program also utilizes NPM package manager so please make sure you have Node
 
 If you are using VS Code open a terminal and navigate to the "frontend" directory. When you are there type in the following command:
 
+npm install
 npm run dev
 
 This will start the project and give you a localhost link you can click to open the main page and begin to use the program.
